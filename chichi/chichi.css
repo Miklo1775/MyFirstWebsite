@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: lightgray;
+  color: rgb(187, 51, 74);
+}
+
+.header {
+  border: 3px solid red;
+  margin-bottom: 20px;
+  text-align: center;
+  color: black;
+}
+
+.posted-by {
+  margin-bottom: 15px;
+  margin-top: 15px;
+  text-align: center;
+}
+
+.chi-intro {
+  color: blue;
+  margin-top: 10px;
+}
+
+.kinto {
+  margin-top: 15px;
+}
+
+.format {
+  margin-bottom: 20px;
+}
+
+h3 {
+  color: black;
+  margin-bottom: 20px;
+}
+
+p {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
